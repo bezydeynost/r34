@@ -125,7 +125,7 @@ This allows resuming interrupted downloads without duplicates.
 
 ---
 
-# r34-dlp
+# r34-downloader
 
 Загрузчик изображений и видео с Rule34.xxx с поддержкой возобновления загрузки.
 

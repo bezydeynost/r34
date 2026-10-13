@@ -1,4 +1,4 @@
-# r34-dlp
+# r34-downloader
 
 ## Disclaimer
 
